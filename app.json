@@ -1,6 +1,6 @@
 {
-  "name": "PHP Getting Started",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "name": "Task 1",
+  "description": "Finding the distance between the building and the obstruction",
   "repository": "https://github.com/heroku/php-getting-started",
   "addons": []
 }
